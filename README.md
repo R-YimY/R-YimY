@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on **Camera relocalization with multiple hardware configurations**
 
 - 👯 I’m looking to collaborate on **Inertial Odometry, Visual/Inertial Odometry, Point Cloud Registration, Image Matching, State Estimation, etc.**
-- My Page: looking for more details： 
-<p><img align="left" src="https://r-yimy.github.io/" alt="RanYu" /></p>
+- My Page: looking for more details： [yimy personal page](https://r-yimy.github.io/)
 <p align="left">
 </p>
